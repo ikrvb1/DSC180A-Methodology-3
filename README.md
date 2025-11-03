@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Iain Roman Bustillos
-ibustillos@ucsd.edu
+Iain Roman Bustillos and Jet Yue
